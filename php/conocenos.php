@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/principal.css">
     <link rel="stylesheet" href="../css/nav-enca-pie.css">
     <link rel="stylesheet" href="../css/footer.css">
-    
+    <link rel="stylesheet" href="../css/Conocenos.css">
     	  
     <!--FinPara pie de pagina-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"><!--Para el icono en bootstrap-->
