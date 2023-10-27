@@ -97,7 +97,7 @@
         <div class="row">
           <div class="col-4">
             <div class="card frase-mamalona2 shadow-lg p-3 mb-5 bg-white rounded" style="width: 18rem;">
-              <img src="/img/celene.jpeg" class="card-img-top" alt="celene">
+              <img src="https://cdn.august.com.au/wp-content/uploads/2015/04/Allan_Get-Web-Developer-Savvy_header.png" class="card-img-top" alt="celene">
               <div class="card-body">
                 <h5 class="card-title text-center">FrontEnd Celene</h5>
                 <p class="card-text text-justify text-center">
@@ -121,11 +121,11 @@
           </div>
           <div class="col-4">
             <div class="card frase-mamalona2 shadow-lg p-3 mb-5 bg-white rounded" style="width: 18rem;">
-              <img src="/img/josiel.jpg" class="card-img-top" alt="josiel">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzi8Ln-aanIUjylEBY54xto3iIhagrPbo6lQxTLQs3GcgGnPsCvcpISyTqXApuN_3lwyU&usqp=CAU" class="card-img-top" alt="josiel">
               <div class="card-body">
                 <h5 class="card-title text-center">FrontEnd Josiel</h5>
                 <p class="card-text text-justify text-center">
-                  Como Encargado de apoyar con el diseño y depurar errores, aporto soluciones visuales y funcionales en proyectos, colaboro estrechamente con el equipo de desarrollo, identifico y resuelvo errores en software utilizando mi conocimiento en lenguajes de programación y herramientas de depuración. Mi enfoque en la mejora continua y mi pasión por el diseño garantizan la entrega de productos de alta calidad que superen las expectativas del cliente.
+                Un tester, o probador de software, desempeña un papel crucial en el desarrollo de software al evaluar la calidad y el funcionamiento de una aplicación o sistema. Su trabajo implica la identificación y documentación de defectos, pruebas funcionales, de rendimiento y de usabilidad, y la validación de que el software cumple con los requisitos establecidos. Los testers ayudan a garantizar que el software sea confiable y cumpla con las expectativas del usuario final, lo que contribuye a la mejora de la experiencia del usuario y la satisfacción del cliente. También desempeñan un papel importante en la identificación y resolución de problemas antes de que el software se implemente en el entorno de producción.
                 </p>
               </div>
             </div>
